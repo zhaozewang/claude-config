@@ -1,0 +1,10 @@
+{
+  "statusLine": {
+    "type": "command",
+    "command": "bash /home/zw/.claude/statusline-command.sh"
+  },
+  "language": "English",
+  "effortLevel": "high",
+  "voiceEnabled": false,
+  "skipDangerousModePermissionPrompt": true
+}

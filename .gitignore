@@ -1,0 +1,22 @@
+# Runtime state — never track
+sessions/                                                                                                                                                                                                       
+cache/
+history.jsonl
+projects/                                                                                                                                                                                                       
+telemetry/
+todos/                                                                                                                                                                                                          
+tasks/
+shell-snapshots/
+statsig/
+usage-data
+plugins/
+ide/
+paste-cache/                                                                                                                                                                                                    
+session-env/
+debug/                                                                                                                                                                                                          
+backups/
+downloads/
+file-history/
+stats-cache.json
+mcp-needs-auth-cache.json
+agent-memory/
